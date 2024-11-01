@@ -1,2 +1,2 @@
-# machineLearning
+# MachineLearning
 this is a description.
