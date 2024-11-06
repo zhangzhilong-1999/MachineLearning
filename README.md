@@ -1,2 +1,2 @@
 # MachineLearning
-this is a description.
+machine learning implementation by python
